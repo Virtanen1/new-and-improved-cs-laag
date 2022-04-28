@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+.header {
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 20px;
+    display: flex;
+}
+.virpis {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+    border-radius: 20px;
+  
+  
+}
